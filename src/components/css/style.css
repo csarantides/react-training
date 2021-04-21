@@ -1,0 +1,48 @@
+.pageContent {
+    margin-left:2.5%;
+    margin-right:2.5%;
+}
+
+.subTitle {
+    font-weight:bold;
+}
+
+.codeExTitle,
+.codeDemoTitle {
+    text-align:center;
+}
+
+.pageTitle,
+.filePath {
+    text-align:center;
+}
+
+.codeEx {
+    border:1px solid grey;
+    word-break: break-word;
+}
+
+.codeDemo {
+    text-align:center;
+    border:1px solid grey;
+}
+
+.codeDemo {
+    padding-bottom:10px;
+}
+
+.betterChoice {
+    color:red
+}
+
+pre {
+    white-space: pre-wrap; 
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+
+.green {
+    color:green
+}
